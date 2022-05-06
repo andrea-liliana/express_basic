@@ -1,0 +1,22 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrea-liliana/express_basic.git"
+  },
+  "author": "andrea-liliana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrea-liliana/express_basic/issues"
+  },
+  "homepage": "https://github.com/andrea-liliana/express_basic#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
