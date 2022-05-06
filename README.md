@@ -10,5 +10,5 @@ Creación de una app de express agregando rutas, rutas para regresar objetos y r
 
 3. En el navegador entrar a `localhost:3000`
 
-4. Se reinicia el servidor y se pueden visitar las siguientes rutas: `localhost:3000/launchx`, `localhost:3000/explorersInNode` y `/explorers/:explorerName` donde `:explorerName`  es un valor enviado por la url (ej:`localhost:3000/explorers/soyLaExplorerAndrea`).
+4. Se reinicia el servidor y se pueden visitar las siguientes rutas: `localhost:3000/launchx`, `localhost:3000/explorersInNode` y `/explorers/:explorerName` donde `:explorerName`  es un valor enviado por la url (ej: `localhost:3000/explorers/soyLaExplorerAndrea`).
 
